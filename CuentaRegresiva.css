@@ -1,0 +1,28 @@
+body{
+    background:url(../imagenes/Fondo2.jpg);
+    background-attachment: fixed;  
+    color: black;
+}
+
+h1{
+    padding-left: 250px;
+    font-size: 250%;
+    
+
+}
+
+img{
+    padding-left: 43%;
+    width: 200px;
+    height: 400px;
+
+}
+
+p{
+    padding-left: 10px;
+    color: black;
+    background-color: rgb(245, 210, 10);
+    width: 550px;
+    margin-left: 430px;
+    font-size: 30px;
+}
